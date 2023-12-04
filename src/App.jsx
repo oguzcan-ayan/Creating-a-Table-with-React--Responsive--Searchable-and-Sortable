@@ -13,27 +13,27 @@ function App() {
 
   const [users, setUsers] = useState(() =>[
     {
-    "name": "Oğuzcan",
-    "surname": "Ayan",
-    "email": "oguzcanayan43@hotmail.com",
+    "name": "Ahmet",
+    "surname": "İlker",
+    "email": "ahmetilker@hotmail.com",
     "age": 23
     },
     {
-    "name": "Elmas",
-    "surname": "Ayan",
-    "email": "elmas_b.o@hotmail.com",
+    "name": "Pelin",
+    "surname": "Taşkın",
+    "email": "pelintaskin@hotmail.com",
     "age": 40
     },
     {
-    "name": "Ercan",
-    "surname": "Ayan",
-    "email": "ercanayan1070@hotmail.com",
+    "name": "Mehmet",
+    "surname": "Türk",
+    "email": "mehmetturk@hotmail.com",
     "age": 47
     },
     {
-    "name": "Beyza Betül",
-    "surname": "Ayan",
-    "email": "beyzabetulayan1@hotmail.com",
+    "name": "Ayşe",
+    "surname": "Yağız",
+    "email": "ayseyagiz@hotmail.com",
     "age": 19
     }
 ]);
