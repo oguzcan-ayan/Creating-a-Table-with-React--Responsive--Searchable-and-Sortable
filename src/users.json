@@ -1,27 +1,27 @@
 [
     {
-    "name": "Oğuzcan",
-    "surname": "Ayan",
-    "email": "oguzcanayan43@hotmail.com",
-    "age": 23
+    "name": "Ahmet",
+    "surname": "Alıcı",
+    "email": "ahmetalici@hotmail.com",
+    "age": 30
     },
     {
-    "name": "Elmas",
-    "surname": "Ayan",
-    "email": "elmas_b.o@hotmail.com",
-    "age": 40
+    "name": "Hasan",
+    "surname": "Tık",
+    "email": "hasantik@hotmail.com",
+    "age": 35
     },
     {
-    "name": "Ercan",
-    "surname": "Ayan",
-    "email": "ercanayan1070@hotmail.com",
-    "age": 47
+    "name": "Mehmet",
+    "surname": "Arabacı",
+    "email": "mehmetarabaci@hotmail.com",
+    "age": 50
     },
     {
-    "name": "Beyza Betül",
-    "surname": "Ayan",
-    "email": "beyzabetulayan1@hotmail.com",
-    "age": 19
+    "name": "Ayşe",
+    "surname": "Buluş",
+    "email": "aysebulus@hotmail.com",
+    "age": 20
     }
 ]
 
